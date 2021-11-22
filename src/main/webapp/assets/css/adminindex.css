@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css?family=Numans');
+
+html,body {
+  background-image: url('/assets/img/gallery/adminindexbg.jpg');
+background-size: cover;
+background-repeat: no-repeat;
+height: 100%;
+}
+
+/* .container{ */
+	
+/* height: 100%; */
+/* align-content: center; */
+/* } */
